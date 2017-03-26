@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSString *str = @"hello git";
+    NSString *str2 = @"haha";
     // Do any additional setup after loading the view, typically from a nib.
 }
 
